@@ -4,7 +4,10 @@ using namespace std;
 
 int main()
 {
-	cout << "초기상태 입니다.";
+	int a = 10;
+	int b = 20;
+
+	cout << "a+b = "<<a+b<<"입니다!";
 
 	return 0;
 }
